@@ -16,7 +16,7 @@ FILE_URL = (
     "sample_-_superstore.xls"
 )
 
-DATA_DIR = Path("data")
+DATA_DIR = Path("dataset_download")
 
 FILE_PATH = DATA_DIR / "sample_-_superstore.xls"
 
