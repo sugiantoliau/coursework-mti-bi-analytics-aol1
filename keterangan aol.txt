@@ -1,4 +1,3 @@
-pip install pandas sqlalchemy psycopg2 openpyxl xlrd
 
 python -m pip install python-dotenv
 python -m pip install "psycopg[binary]"
@@ -9,6 +8,17 @@ python -m pip install psycopg2
 python -m pip install openpyxl
 python -m pip install xlrd
 
+-------------------------------------------------------------------------------------------------------------------
+
+
+.env
+
+host=
+dbname=
+user=
+password=
+port=26240
+sslmode=require
 
 -------------------------------------------------------------------------------------------------------------------
 
